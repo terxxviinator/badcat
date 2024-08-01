@@ -850,6 +850,9 @@ section,
 }
 
 @media (max-width: 1199px) {
+  *{
+        overflow-x: hidden;
+    }
 
   section,
   .section {
@@ -945,6 +948,9 @@ section,
 }
 
 @media (max-width: 768px) {
+   *{
+        overflow-x: hidden;
+    }
   .hero h2 {
     font-size: 32px;
     line-height: 36px;
