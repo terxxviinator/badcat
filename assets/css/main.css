@@ -11,9 +11,13 @@
 # Help: https://bootstrapmade.com/color-system/
 --------------------------------------------------------------*/
 /* Fonts */
+@font-face {
+  font-family: BadAbb;
+  src: url(../badaboom_bb/BADABB__.TTF);
+}
 :root {
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --heading-font: "Montserrat",  sans-serif;
+  --heading-font: "BadAbb",  sans-serif;
   --nav-font: "Poppins",  sans-serif;
 }
 
