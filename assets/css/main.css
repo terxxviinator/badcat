@@ -487,6 +487,9 @@ h6 {
     transition: color 0.3s;
     visibility: hidden;
   }
+  .hero .icon-boxes .container .row p{
+    font-size: 12px;
+  }
     .footer .container .row .col-lg-2 {
       display: none;
     }
